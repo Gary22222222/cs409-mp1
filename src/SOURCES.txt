@@ -1,0 +1,7 @@
+Sources used for CS409 MP1
+- Course README and starter template (cs409-fa25/mp1)
+- MDN: HTML5 video sample (CC0 flower.mp4), CSS mask, scrollTo
+- Unsplash photos for aurora.jpg and night-sky.jpg
+- Starter polar bear photo: src/assets/image.jpg
+- Google Fonts: Fraunces and Outfit
+- LLM assistance: Cursor (this chat). Replace llm_logs.csv with the exported conversation link before submitting the grading form.
